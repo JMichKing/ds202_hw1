@@ -1,0 +1,20 @@
+---
+title: 'Lab1'
+author: "Colin Willenborg"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+1. Partner name is John King github username for him is JMichKing.
+
+
+2. The commit ID is 8513a9064785d4309574864591cd6a0b5dee3049 and it is the first and only commit that uploads the homework 1 file to github.
+
+
+3. I wasn't able to knit his .Rmd file until I had added in the png file that he used for his homework but once I added that I was good to go. 
+
+4. I didn't really run into any problems for this lab but it helps being a senior in SE and having three different internships worth of work experience. To make git easier you can mostly just focus on git add, git commit, git status, and git push/pull if you do that it will be relatively easy to understand and pick up and can worry about merging and branches later when you have the basics down.
